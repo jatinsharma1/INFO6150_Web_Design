@@ -1,7 +1,7 @@
 # INFO6150_Web_Design
 
 | Northeastern ID | Name | Email
-| --- | --- 
+| --- | --- | ---
 |001524467 | Jatin Sharma | shartma.jat@northeastern.edu
 
 # Name of the Assignment 
